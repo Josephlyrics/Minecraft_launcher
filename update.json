@@ -1,8 +1,6 @@
 {
   "version": "2.1.1",
-  "url": "https://github.com/Josephlyrics/Minecraft_launcher/releases/download/v2.1.0/KingCrystal.Launcher.v2.1.0.exe",
-  "mirrors": [
-    "https://ghproxy.net/https://github.com/Josephlyrics/Minecraft_launcher/releases/download/v2.1.0/KingCrystal.Launcher.v2.1.0.exe"
-  ],
-  "notes": "首个公开版本：安装版启动器，支持语音和自动更新"
+  "url": "https://github.com/Josephlyrics/Minecraft_launcher/releases/download/v2.1.1/KingCrystal.Launcher.v2.1.1.exe",
+  "mirrors": ["https://ghproxy.net/https://github.com/.../v2.1.1/KingCrystal.Launcher.v2.1.1.exe"],
+  "notes": "2.1.1：修复更新地址缓存问题，安装后自动配置更新"
 }
