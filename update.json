@@ -1,8 +1,5 @@
 {
-  "version": "2.3.0",
-  "url": "https://github.com/Josephlyrics/Minecraft_launcher/releases/download/v2.3.0/KingCrystal.Launcher.v2.3.0.exe",
-  "mirrors": [
-    "https://ghproxy.net/https://github.com/Josephlyrics/Minecraft_launcher/releases/download/v2.3.0/KingCrystal.Launcher.v2.3.0.exe"
-  ],
-  "notes": "2.3.0：新增游戏版本下载（1.16+，可带 Forge）和 Modrinth 模组下载"
+  "version": "2.4.1",
+  "url": "https://github.com/Josephlyrics/Minecraft_launcher/releases/download/v2.4.1/KingCrystal.Launcher.v2.4.1.exe",
+  "notes": "2.4.1：改用 Windows 自带的 .NET Framework 4.8，无需安装运行时；安装位置可自选（需要时自动提权）；版本/模组下载可指定目录"
 }
